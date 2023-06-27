@@ -1,4 +1,5 @@
 ### StarVoyager
+[![version](https://img.shields.io/github/v/release/hosizoraru/StarVoyager?style=for-the-badge)](https://github.com/hosizoraru/StarVoyager/releases) [![stars](https://img.shields.io/github/stars/hosizoraru/StarVoyager?style=for-the-badge)](https://github.com/hosizoraru/StarVoyager/stargazers) [![download-all](https://img.shields.io/github/downloads/hosizoraru/StarVoyager/total?style=for-the-badge)](https://t.me/VoyagerMIUIUpdate) [![download-lsposed-all](https://img.shields.io/github/downloads/Xposed-Modules-Repo/star.sky.voyager/total?style=for-the-badge)](https://modules.lsposed.org/module/star.sky.voyager) [![kotlin](https://img.shields.io/github/languages/top/hosizoraru/StarVoyager?style=for-the-badge)](https://github.com/search?q=repo%3Ahosizoraru%2FStarVoyager++language%3AKotlin&type=code) [![CI](https://img.shields.io/github/actions/workflow/status/hosizoraru/StarVoyager/android.yml?branch=star&style=for-the-badge)](https://github.com/hosizoraru/StarVoyager/actions)   
 全名为 StarSkyVoyager  
 可以的话请前往 [原代码仓库](https://github.com/hosizoraru/StarVoyager) 点一下 star  
 想要很多很多 star  
